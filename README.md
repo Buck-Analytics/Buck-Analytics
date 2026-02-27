@@ -3,7 +3,7 @@
 **Data Analyst | Python • SQL • Excel • Power BI • Machine Learning**
 Master’s Degree in Information Systems (Wirtschaftsinformatik)  
 
-Turning messy data into **clear business decisions**.
+Combining business understanding with data analytics.
 
 📍 Germany  
 📊 Data • BI • Predictive Analytics
@@ -116,18 +116,17 @@ Repository
 
 # 💼 Background
 
-Business Development Working Student
+### Business Development – Working Student
 
-• Market analysis and opportunity identification  
-• Supported sales and growth initiatives  
-• Worked with business stakeholders and data
+- Automated lead research workflow  
+- Supported sales and growth initiatives  
+- Worked closely with stakeholders and data  
 
-Requirements Engineering Intern
+### Requirements Engineering – Intern
 
-• Collected and structured business requirements  
-• Created documentation for product and development teams  
-• Worked with stakeholders to clarify use cases  
-• Helped translate business needs into technical tasks
+- Collected and structured business requirements  
+- Created documentation for product teams  
+- Translated business needs into technical tasks
 
 
 ---
@@ -160,4 +159,4 @@ Remote • Germany • EU
 
 # 🤝 Connect With Me
 
-[![Tools](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/DEINNAME)
