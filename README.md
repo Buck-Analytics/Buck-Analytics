@@ -151,5 +151,4 @@ Remote • Germany • EU
 
 # 🤝 Connect With Me
 
-LinkedIn  
-Email
+[![Tools](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
