@@ -159,4 +159,4 @@ Remote • Germany • EU
 
 # 🤝 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/DEINNAME)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/marcel-buck-122327233/)
