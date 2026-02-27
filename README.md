@@ -1,6 +1,7 @@
 # 🦌 Marcel Buck
 
 **Data Analyst | Python • SQL • Excel • Power BI • Machine Learning**
+Master’s Degree in Information Systems (Wirtschaftsinformatik)  
 
 Turning messy data into **clear business decisions**.
 
@@ -120,6 +121,14 @@ Business Development Working Student
 • Market analysis and opportunity identification  
 • Supported sales and growth initiatives  
 • Worked with business stakeholders and data
+
+Requirements Engineering Intern
+
+• Collected and structured business requirements  
+• Created documentation for product and development teams  
+• Worked with stakeholders to clarify use cases  
+• Helped translate business needs into technical tasks
+
 
 ---
 
