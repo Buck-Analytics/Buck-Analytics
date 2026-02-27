@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="Banner_ReadME.png" width="100%" />
+</p>
+
+
 # 🦌 Marcel Buck
 
 **Data Analyst | Python • SQL • Excel • Power BI • Machine Learning**
