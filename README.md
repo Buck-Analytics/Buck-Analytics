@@ -15,7 +15,7 @@ Combining business understanding with data analytics.
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I help companies understand their data and turn it into actionable insights.
 
@@ -32,7 +32,7 @@ Currently focusing on **advanced analytics and data engineering fundamentals.**
 
 ---
 
-# 🧠 Proof of Work
+# Proof of Work
 
 • Built churn prediction model with **ROC-AUC 0.87**  
 • Reduced manual reporting by **60%** through dashboard automation  
@@ -41,9 +41,9 @@ Currently focusing on **advanced analytics and data engineering fundamentals.**
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
-## 📊 Sales Performance Dashboard
+## Sales Performance Dashboard
 
 **Problem**  
 The company had no clear overview of regional sales performance.
@@ -67,7 +67,7 @@ Repository | Dashboard
 
 ---
 
-# 🤖 Customer Churn Prediction
+# Customer Churn Prediction
 
 **Goal**  
 Predict which customers are likely to cancel their subscription.
@@ -97,7 +97,7 @@ Repository
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 ### Data & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -119,7 +119,7 @@ Repository
 
 ---
 
-# 💼 Background
+# Background
 
 ### Business Development – Working Student
 
@@ -136,7 +136,7 @@ Repository
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
 
@@ -144,7 +144,7 @@ Repository
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 • Advanced SQL for analytics  
 • Data engineering fundamentals  
@@ -152,7 +152,7 @@ Repository
 
 ---
 
-# 🎯 Open To
+# Open To
 
 Data Analyst  
 Business Intelligence Analyst  
