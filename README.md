@@ -4,11 +4,15 @@
 
 Turning data into decisions.
 
-## About Me
-- I build, ship, and tell the story in public.
-- Grew NextWorks social media to 250K+ followers in one year.
-- Help teach 145,000+ students cloud, AI, and tech skills
+# What I Do
 
+- Data Analysis
+- Business Intelligence
+- Machine Learning
+- Dashboard Development
+- Data Storytelling
+
+---
 ## Tech Stack
 
 ### Data
@@ -32,43 +36,54 @@ Turning data into decisions.
 
 # 📊 Portfolio Projects
 
-## Sales Dashboard (Power BI)
+## Sales Performance Dashboard
 
-Business problem  
-Company wanted to understand regional sales performance.
+Problem  
+Company had no clear view of regional sales performance.
 
-Tools  
-Power BI, Excel, SQL
+Solution  
+Built an interactive Power BI dashboard combining SQL + Excel data.
 
-Result  
-- Identified 18% underperforming region
-- Increased reporting speed by 60%
+Impact  
+• Identified **18% underperforming region**  
+• Reduced reporting time by **60%**
 
-🔗 Project Link
+Tech  
+Power BI • SQL • Excel
 
+Project →
 
 ---
 
 ## Customer Churn Prediction
 
-Problem  
-Predict which customers will cancel subscription.
+Goal  
+Predict which customers will cancel subscriptions.
+
+Approach  
+Built a classification model using historical customer data.
+
+Results  
+• ROC-AUC: **0.87**  
+• Identified top churn drivers  
+• Suggested retention strategies
 
 Tech  
-Python, Pandas, Scikit-Learn, PostgreSQL
+Python • Pandas • Scikit-Learn • PostgreSQL
 
-Highlights  
-- 0.87 ROC-AUC model
-- Feature importance analysis
-- Business recommendations
+Repository →
 
-🔗 View Repository
+---
 
+# Currently Learning
 
-## 🚀 Featured Projects
+• Advanced SQL  
+• Data Engineering basics  
+• Production ML
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| Sales Dashboard | Interactive BI dashboard | Power BI, Excel |
-| Customer Segmentation | ML clustering project | Python, Sklearn |
-| Marketing Analysis | Campaign performance | SQL, Tableau |
+---
+
+# Connect With Me
+
+LinkedIn
+Email
