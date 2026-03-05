@@ -6,6 +6,7 @@
 # 🦌 Marcel Buck
 
 **Data Analyst | Python • SQL • Excel • Power BI • Machine Learning**
+
 Master’s Degree in Information Systems (Wirtschaftsinformatik)  
 
 Combining business understanding with data analytics.
