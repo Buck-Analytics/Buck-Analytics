@@ -35,38 +35,11 @@ Currently focusing on **advanced analytics and data engineering fundamentals.**
 
 # Proof of Work
 
-• Built churn prediction model with **ROC-AUC 0.87**  
-• Reduced manual reporting by **60%** through dashboard automation  
-• Identified **18% underperforming sales region** with data analysis  
-• Work daily with **Python, SQL and BI tools** to solve business problems  
+
 
 ---
 
 # Featured Projects
-
-## Sales Performance Dashboard
-
-**Problem**  
-The company had no clear overview of regional sales performance.
-
-**Solution**  
-Developed an interactive Power BI dashboard combining SQL and Excel data sources.
-
-**Impact**
-
-• Identified **18% underperforming region**  
-• Reduced reporting time by **60%**  
-• Enabled faster decision-making for leadership
-
-**Tech**
-
-Power BI • SQL • Excel
-
-**Project**
-
-Repository | Dashboard
-
----
 
 # Customer Churn Prediction
 
